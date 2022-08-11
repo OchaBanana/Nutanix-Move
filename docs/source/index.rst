@@ -1,16 +1,18 @@
-.. Nutanix Move documentation master file, created by
-   sphinx-quickstart on Thu Aug 11 14:04:31 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. title:: Nutanix Move
 
-Welcome to Nutanix Move's documentation!
+Welcome to Nutanix Move's Hands-on Lab
 ========================================
 
-.. toctree::
+.. toctree:: 
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Nutanix Move Labs
+   :name: move
+   :hidden:
 
-
+Move Deployment
+Add Source Environment
+Add Target Environment
+Creating a Migration Plan
 
 Indices and tables
 ==================
