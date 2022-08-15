@@ -8,10 +8,10 @@
 
    move/preparation
    move/move_deployment
+   move/login_move
    move/source_environment
    move/target_environment
    move/create_mp
-
 
 .. _getting_started:
 
