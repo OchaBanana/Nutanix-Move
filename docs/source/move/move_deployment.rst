@@ -51,4 +51,5 @@ Procedure
 11. Wait for the VM to detect an IP address.
      The new Move VM is powered ON.
 
-Now you can access to the Move user interface (UI) using the Move VM IP address or the FQDN.
+.. tip::
+    Now you can access to the Move user interface (UI) using the Move VM IP address or the FQDN.
