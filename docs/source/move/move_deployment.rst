@@ -24,9 +24,9 @@ For more information, refer to `Nutanix Support Portal <https://portal.nutanix.c
 
 
 Procedure
-"""""""""
+^^^^^^^^^
 
-1. Log on to the cluster on which you want to deploy Move by using your Prism Element admin credentials.
+1. Log on to the AHV cluster to deploy Move by using your Prism Element admin credentials.
 2. Click the gear icon pull-down list of the main menu.
 3. Click **Image Configuration**.
      "move.qcow2" in Image Configuration window is displayed.
@@ -45,10 +45,10 @@ Procedure
      - **Memory**: *8*.
      - **NIC**: *primary*
 
-8. Remove the current CDROM disk by clicking the **X** next to the CDROM.
-9. Click **+ Add New Disk** and select **Operation > Clone from Image Service**, and then in the **Image** drop-down, select **"move.qcow2"** image. Click **Add**.
-10. Click the **Table** view and locate and select your **Move VM**, and then click **Power On**.
-11. Wait for the VM to detect an IP address.
+7. Remove the current CDROM disk by clicking the **X** next to the CDROM.
+8. Click **+ Add New Disk** and select **Operation > Clone from Image Service**, and then in the **Image** drop-down, select **"move.qcow2"** image. Click **Add**.
+9.  Click the **Table** view and locate and select your **Move VM**, and then click **Power On**.
+10. Wait for the VM to detect an IP address.
      The new Move VM is powered ON.
 
 .. tip::
