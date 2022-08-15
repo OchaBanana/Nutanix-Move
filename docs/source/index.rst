@@ -6,8 +6,9 @@
    :name: _move
    :hidden:
 
+   mvoe/preparation
    move/move_deployment
-   move/source_nvironment
+   move/source_environment
    move/target_environment
    move/create_mp
 
