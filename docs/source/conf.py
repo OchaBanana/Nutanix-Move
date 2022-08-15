@@ -24,17 +24,10 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-# import sphinx_rtd_theme
-# html_theme = 'sphinx_rtd_theme'
-import sphinx_bootstrap_theme
-import sphinx_fontawesome
-html_theme = 'bootstrap'
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
-#html_static_path = ['_static']
-extensions = ['sphinx.ext.todo',
-    'sphinx.ext.ifconfig',
-    'sphinxcontrib.fulltoc',
-    'sphinx_fontawesome']
+import sphinx_rtd_theme
+html_theme = 'sphinx_rtd_theme'
+
+html_static_path = ['_static']
 
 html_logo = "_static/NutanixWorkshops.svg"
 
@@ -43,3 +36,20 @@ html_favicon = "_static/favicon.ico"
 html_title = ""
 
 html_show_sphinx = False
+
+html_theme_options = {
+    'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
+    'analytics_anonymize_ip': False,
+    'logo_only': True,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': False,
+    'vcs_pageview_mode': '',
+    'style_nav_header_background': '#3C3B3A',
+    # Toc options
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False
+}
