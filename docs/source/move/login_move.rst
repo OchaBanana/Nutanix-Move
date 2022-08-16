@@ -17,15 +17,16 @@ To log on to Move UI, do the following:
 Procedure
 """""""""
 
-1. Open a web browser, enter the FQDN or IP address of the VM.
-2. (First-time log on only) If you are logging in for the first time, do the following:
+| 1. Open a web browser, enter the IP address of the Move VM.
+|
+| 2. (First-time log on only) If you are logging in for the first time, do the following:
+
      - Click the **I have read and agree to terms and conditions** option, and then click **Continue**.
      - In the Nutanix Customer Experience Program screen, click **OK**.
-      .. note::
-         By participating in the Nutanix Customer Experience Program, Nutanix collects non-identifying information for product improvement. Information such as type of source and target, number of migrated VMs, Move version, operating system type of migrated VMs.
-         You can opt out of Nutanix Customer Experience Program from the Move dashboard after logging in. Click the gear icon on the top-right corner, then click **Experience Improvement**. Uncheck the **Participate** check box.
      - In the logon screen, set a password for the nutanix user in the **Enter new password** and **Re-enter new password** fields and click **Set Password**.
-3. In the logon screen, type the password of the nutanix user and press **Enter**.
+|
+| 3. In the logon screen, type the password of the nutanix user and press **Enter**.
+      
       .. Note:: 
          Default user of the Move UI is **nutanix**.
 
@@ -45,6 +46,7 @@ The dashboard includes the following options:
 |   For more information, refer to Environments and Migration Plan Management.
 |
 | - *View Metrics*. View the metrics of Move appliance health.
+|
 | - *Upgrade Software*. Upgrade to a new version of Move to use the latest available features.
 |   For more information, refer to Move Upgrade Management.
 |
@@ -52,11 +54,17 @@ The dashboard includes the following options:
 |   For more information, refer to Move Support Bundle Collection.
 |
 | - *Experience Improvement*. Participate to improve Nutanix Customer Experience.
+|
 | - *Realtime Logs*. Check the real time logs for all the Move components.
+|
 | - *Events*. Displays the list of events happening in Move.
+|
 | - *Help*. Opens the latest version of the Move documentation.
+|
 | - *Rest API Docs*. Opens the latest version of the Move API documentation
+|
 | - *About Move*. Check the latest version of the Move.
+|
 | - *Log Out*. Sign out of Move VM.
 
 .. thumbnail:: image/dashboard-42.png

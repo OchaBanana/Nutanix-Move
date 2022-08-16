@@ -12,6 +12,7 @@ Procedure
 """""""""
 
 | 1. Log on to the Move UI.
+|
 | 2. Click **+ Add Environment** under Environments.
      
      .. thumbnail:: image/add-aos-environment.png
@@ -19,6 +20,7 @@ Procedure
 |   The Add Environment window appears.
 | 
 | 3. Select **Nutanix AOS** as the target environment type.
+|
 | 4. Complete the indicated fields and click **Add**.
 |    a. **Environment Name**: AHV-Target Cluster
 |    b. **Nutanix Environment**: *<Cluster IP>*.

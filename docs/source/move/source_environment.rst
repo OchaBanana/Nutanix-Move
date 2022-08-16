@@ -18,6 +18,7 @@ Procedure
 """""""""
 
 | 1. Log on to the Move UI.
+|
 | 2. Click **+ Add Environment** under Environments.
 |   The Add Source Environment window appears.
 
@@ -25,6 +26,7 @@ Procedure
         .. thumbnail:: image/add-esxi-environment.png
 
 | 3. Select **VMware ESXi** as the environment type.
+|
 | 4. Complete the indicated fields and click **Add**.
 |    a. **Environment Name**: ESXi-Source Cluster.
 |    b. **vCenter Server or standalone ESX host**: Enter *<vCenter IP>*
