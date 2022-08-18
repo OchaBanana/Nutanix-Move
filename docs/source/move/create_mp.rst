@@ -39,9 +39,14 @@ Procedure
         .. note::
             You cannot add more than 50 VMs in a single migration plan.
 
+        .. thumbnail:: image/added-vm.png
+                :width: 100
+                :align: center
+
+
 |    The selected VMs are displayed in the sidebar. Click **Next**.
 |
-| 6. In the Network Configuration screen, select the 'primary' network. Then, click **Next**.
+| 6. In the Network Configuration screen, select the **Target Network > Primary** network. Then, click **Next**.
 |
 | 7. In the VM Preparation screen, select '**Autometic**' modes.
  
@@ -60,7 +65,9 @@ Procedure
 |
 | 8. Provide the credentials of the source VMs under Windows VMs or Linux VMs, depending on the type of the source VM. Then, click **Next**.
 |
-| 9. To save the migration plan, click **Save**.
+| 9. In the VM Setting screen, we can leave all default. Then, click **Next**.
+|
+|10. To save the migration plan, click **Save and Start**.
  
         .. note::
             | **Back**: To edit the information, click this option.
@@ -69,3 +76,9 @@ Procedure
             | **Save and Start**: Click this option to save the migration plan and begin the migration immediately.
 
 |    The seeding process for migration begins. You can monitor this information by selecting **Status** for the migration plan.
+
+
+        .. thumbnail:: image/progress.png
+                :width: 150
+                :align: center
+                
