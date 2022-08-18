@@ -33,13 +33,13 @@ Procedure
 |    b. **Select a Target**: AHV-Target Cluster
 |    C. **Target Containers**: *<Your name>*-ctn
 |
-| 5. In the Select VMs screen, select '*<Your name>*-win-vm' and '*<Your name>*-linux-vm' from the list. To add all the VMs, click **+Add All**, and then click **Next**.
+| 5. In the Select VMs screen, click + to select '*<Your name>*-win-vm' and '*<Your name>*-linux-vm' from the list.
 |    You can filter the VMs by name in the Filter bar. You can also sort the VM types by selecting the appropriate column.
  
         .. note::
             You cannot add more than 50 VMs in a single migration plan.
 
-|    The selected VMs are displayed in the sidebar.
+|    The selected VMs are displayed in the sidebar. Click **Next**.
 |
 | 6. In the Network Configuration screen, select the 'primary' network. Then, click **Next**.
 |
