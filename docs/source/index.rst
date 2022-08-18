@@ -12,6 +12,9 @@
    move/source_environment
    move/target_environment
    move/create_mp
+   move/cutover
+   move/download_file
+
 
 .. _getting_started:
 
@@ -42,7 +45,7 @@ Agenda
 Environment Details
 ===================
 
-Each attendees will be assigned a Remote lab for information please see or download `Lab Access Information <https://docs.google.com/spreadsheets/d/1LOzz8wt8srnTq--ip-h6NtNLryxfrxrltOEE5_y5RDI/edit?usp=sharing>`_ document.
+Each attendees will be assigned a Remote lab for information please see or download `Lab Access Information <https://www.dropbox.com/s/sxzr5t4au9f8483/Move%20Lab%20Access%20Information.xlsx?dl=1>`_ document.
 
 Lab Access Methods
 ==================

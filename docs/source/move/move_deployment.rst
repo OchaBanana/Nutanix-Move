@@ -39,7 +39,7 @@ Procedure
 |     The Create VM window appears.
 |
 | 6. Complete the indicated fields for creating a VM.
-|     - **Name**: MoveVM-*<Your name>*.
+|     - **Name**: *<Your name>*-MoveVM.
 |     - **Description** (optional): *leave blank*.
 |     - **Timezone**: *leave default*.
 |     - **Use this VM as an agent VM**: *leave uncheck*.

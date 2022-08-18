@@ -26,7 +26,7 @@ Procedure
 |    b. **Select a Target**: AHV-Target Cluster
 |    C. **Target Containers**: *<Your name>*-ctn
 |
-| 5. In the Select VMs screen, select '*<Your name>*-win-vm' and '*<Your name>*-lin-vm' from the list. To add all the VMs, click **+Add All**, and then click **Next**.
+| 5. In the Select VMs screen, select '*<Your name>*-win-vm' and '*<Your name>*-linux-vm' from the list. To add all the VMs, click **+Add All**, and then click **Next**.
 |    You can filter the VMs by name in the Filter bar. You can also sort the VM types by selecting the appropriate column.
  
         .. note::
