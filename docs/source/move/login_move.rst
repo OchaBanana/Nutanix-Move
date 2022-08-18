@@ -24,6 +24,7 @@ Procedure
      - Click the **I have read and agree to terms and conditions** option, and then click **Continue**.
      - In the Nutanix Customer Experience Program screen, click **OK**.
      - In the logon screen, set a password for the nutanix user in the **Enter new password** and **Re-enter new password** fields and click **Set Password**.
+
 |
 | 3. In the logon screen, type the password of the nutanix user and press **Enter**.
       

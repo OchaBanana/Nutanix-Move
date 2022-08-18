@@ -49,6 +49,7 @@ Procedure
 
         .. note::
             Uninstalling VMware tools from the migrated VMs is on a best-effort basis.
+
 |
 | 8. Provide the credentials of the source VMs under Windows VMs or Linux VMs, depending on the type of the source VM. Then, click **Next**.
 |

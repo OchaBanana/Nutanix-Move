@@ -29,6 +29,7 @@ Procedure
         - Attaches the replicated disks to the VM
         - Powers on or off the VM (depends on the initial power state)
         - Runs the scripts to set the static IP address
+
 |
 | The cutover process begins immediately and takes a few minutes. Once cutover is complete, the VM is ready for use in the new Nutanix Cluster on AHV cluster.
 | 

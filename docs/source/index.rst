@@ -58,10 +58,12 @@ VPN option: Pulse Secure VPN Client
 1. If client already installed skip to step 5
 2. To download the client, login to https://xlv-uswest1.nutanix.com or https://xlv-blr.xlabs.nutanix.com using the supplied user credentials
     Or
+ 
   - Direct Download:
      - `Windows 32 bit <https://noc.rmutp.ac.th/wp-content/uploads/32bitinstaller.msi>`_
      - `Windows 64 bit <https://noc.rmutp.ac.th/wp-content/uploads/64bitinstaller.msi>`_
      - `Mac OS <https://noc.rmutp.ac.th/wp-content/uploads/macinstaller.dmg>`_
+
 3. Download and install client
 4. Logout of the Web UI
 5. Open client and **ADD** a connection with the following details:
@@ -85,7 +87,7 @@ Cluster Credentials
 
 .. note::
 
-  The *<Cluster Password>* is unique to each cluster and will be provided by `Lab Access Information <https://docs.google.com/spreadsheets/d/1LOzz8wt8srnTq--ip-h6NtNLryxfrxrltOEE5_y5RDI/edit?usp=sharing>`_ document of the Workshop.
+  The *<Cluster Password>* is unique to each cluster and will be provided by `Lab Access Information <https://www.dropbox.com/s/sxzr5t4au9f8483/Move%20Lab%20Access%20Information.xlsx?dl=1>`_ document of the Workshop.
 
 .. list-table::
   :widths: 35 32 32
