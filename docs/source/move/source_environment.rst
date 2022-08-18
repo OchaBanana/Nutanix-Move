@@ -24,7 +24,9 @@ Procedure
 
 
         .. thumbnail:: image/add-esxi-environment.png
-
+                :width: 300
+                :align: center
+                
 | 3. Select **VMware ESXi** as the environment type.
 |
 | 4. Complete the indicated fields and click **Add**.

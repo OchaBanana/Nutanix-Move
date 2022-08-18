@@ -16,6 +16,8 @@ Procedure
 | 2. Click **+ Add Environment** under Environments.
      
      .. thumbnail:: image/add-aos-environment.png
+                :width: 300
+                :align: center
 
 |   The Add Environment window appears.
 | 
