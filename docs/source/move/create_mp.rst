@@ -17,8 +17,15 @@ Procedure
 |
 | 2. On the Move dashboard, click **Create a Migration Plan**.
 |    The Enter Migration Plan Name window appears.
+
+        .. thumbnail:: image/mp-name.png
+                :width: 300
+                :align: center
+
 |
-| 3. Enter the new migration plan name, and then click **OK**.
+| 3. Enter the new migration plan name, and then click **Proceed**.
+|    - **Plan Name**: *<Your name>*-mp
+
 |    The New Migration Plan window appears.
 |
 | 4. Complete the following fields, and then click **Next**.
