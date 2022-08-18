@@ -5,6 +5,7 @@ Preparation
 
 Before you start Depolying Move VM, you need to prepare source VMs and Storage Container to use in this Lab.
 
+
 Create Windows VM
 """""""""""""""""
 
@@ -25,11 +26,15 @@ Create Windows VM
      - **Memory**: *4*.
 
      .. thumbnail:: image/clone-win-vm.png
+        :width: 300
+        :align: center
 
 |
 | 5. Click **Save**.
 |
 | 6. Locate and select your **Wundows VM**, and then click **Power On**.
+|
+
 
 
 Create Linux VM
@@ -52,6 +57,8 @@ Create Linux VM
 | 3. Click **Save**.
 |
 | 4. Locate and select your **Linux VM**, and then click **Power On**.
+|
+
 
 
 Create Target Container
@@ -62,6 +69,8 @@ Create Target Container
 | 2. Go to **Home > Storage**.
 
         .. thumbnail:: image/storage-menu.png
+                :width: 120
+                :align: center
 
 |
 | 3. Click **+ Storage Container**
@@ -72,6 +81,8 @@ Create Target Container
      - **Name**: *<Your name>*-ctn.
 
      .. thumbnail:: image/create-ctn.png
+                :width: 400
+                :align: center
 
 |
 | 5. Click **Save**.

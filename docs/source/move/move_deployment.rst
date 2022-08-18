@@ -46,15 +46,26 @@ Procedure
 |     - **vCPU(s)**: *2*.
 |     - **Number of Cores per vCPU**: *2*.
 |     - **Memory**: *8*.
-|     - **NIC**: *primary*
 |
 | 7. Remove the current CDROM disk by clicking the **X** next to the CDROM.
 |
 | 8. Click **+ Add New Disk** and select **Operation > Clone from Image Service**, and then in the **Image** drop-down, select **"move.qcow2"** image. Click **Add**.
 |
-| 9. Click the **Table** view and locate and select your **Move VM**, and then click **Power On**.
+        .. thumbnail:: image/add-disk.png
+                :width: 300
+                :align: center
+
+| 9. Click **+ Add New NIC** and select **Subnet Name > Primary**, and **Network Connection State > Connected**. Click **Add**.
 |
-| 10. Wait for the VM to detect an IP address.
+        .. thumbnail:: image/add-nic.png
+                :width: 300
+                :align: center
+
+| 10. Click **Save**.
+|
+| 11. Click the **Table** view and locate and select your **Move VM**, and then click **Power On**.
+|
+| 12. Wait for the VM to detect an IP address.
 |     The new Move VM is powered ON.
 
 .. tip::
