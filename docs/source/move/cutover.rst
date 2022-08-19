@@ -43,14 +43,14 @@ Procedure
 | 
 | 5. Click at **In Progress** to view status.
 
-        .. thumbnail:: image/progress.png
+        .. image:: image/progress.png
                 :width: 300
                 :align: center
 
 
 | 6. Click **X** to close window, after VMs disappeared. You will see Your Migration Plan status is **Completed**.      
 
-        .. thumbnail:: image/complete.png
+        .. image:: image/complete.png
                 :width: 600
                 :align: center
 

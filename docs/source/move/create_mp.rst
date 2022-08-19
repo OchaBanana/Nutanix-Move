@@ -78,6 +78,6 @@ Procedure
 |    The seeding process for migration begins. You can monitor this information by selecting **Status** for the migration plan.
 
 
-        .. thumbnail:: image/progress.png
+        .. image:: image/progress.png
                 :width: 300
                 :align: center
