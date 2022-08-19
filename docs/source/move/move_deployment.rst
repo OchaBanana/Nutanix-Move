@@ -52,14 +52,14 @@ Procedure
 | 8. Click **+ Add New Disk** and select **Operation > Clone from Image Service**, and then in the **Image** drop-down, select **"move.qcow2"** image. Click **Add**.
 |
 
-        .. thumbnail:: image/add-disk.png
+        .. image:: image/add-disk.png
                 :width: 300
                 :align: center
 
 | 9. Click **+ Add New NIC** and select **Subnet Name > Primary**, and **Network Connection State > Connected**. Click **Add**.
 |
 
-        .. thumbnail:: image/add-nic.png
+        .. image:: image/add-nic.png
                 :width: 300
                 :align: center
 

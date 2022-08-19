@@ -25,7 +25,7 @@ Procedure
      - In the Nutanix Customer Experience Program screen, click **OK**.
      - In the logon screen, set a password for the nutanix user in the **Enter new password** and **Re-enter new password** fields and click **Set Password**.
 
-        .. thumbnail:: image/move-password.png
+        .. image:: image/move-password.png
                 :width: 300
                 :align: center
 
@@ -72,5 +72,5 @@ The dashboard includes the following options:
 |
 | - *Log Out*. Sign out of Move VM.
 
-.. thumbnail:: image/dashboard-42.png
+.. image:: image/dashboard-42.png
 

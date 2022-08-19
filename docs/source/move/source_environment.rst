@@ -23,7 +23,7 @@ Procedure
 |   The Add Source Environment window appears.
 
 
-        .. thumbnail:: image/add-esxi-environment.png
+        .. image:: image/add-esxi-environment.png
                 :width: 300
                 :align: center
                 

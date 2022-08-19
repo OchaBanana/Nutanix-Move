@@ -25,7 +25,7 @@ Create Windows VM
      - **Number of Cores per vCPU**: *1*.
      - **Memory**: *4*.
 
-     .. thumbnail:: image/clone-win-vm.png
+     .. image:: image/clone-win-vm.png
         :width: 300
         :align: center
 
@@ -68,7 +68,7 @@ Create Target Container
 |
 | 2. Go to **Home > Storage**.
 
-        .. thumbnail:: image/storage-menu.png
+        .. image:: image/storage-menu.png
                 :width: 120
                 :align: center
 
@@ -80,7 +80,7 @@ Create Target Container
 
      - **Name**: *<Your name>*-ctn.
 
-     .. thumbnail:: image/create-ctn.png
+     .. image:: image/create-ctn.png
                 :width: 400
                 :align: center
 
