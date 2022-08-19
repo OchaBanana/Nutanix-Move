@@ -16,10 +16,17 @@ Procedure
 
 | 1. In the Move UI, click the **Ready to Cutover** status to display the list of available VMs.
 |
-| 2. To perform a cutover, select the VMs or group of VMs.
+        .. thumbnail:: image/ready.png
+                :width: 300
+                :align: center
+
+| 2. To perform a cutover, select both '*<Your name>*-win-vm' and '*<Your name>*-linux-vm'.
+|    Cutover confirmation window appears.
 |
-| 3. Click **Cutover**.
-|    The cutover process performs the following VM actions.
+| 3. Click **Continue**.
+
+    .. tip::
+        The cutover process performs the following VM actions.
 
         - Shuts down the VM
         - Takes the final snapshots for the VM and copying the final changes to Nutanix Cluster on AWS and AHV
@@ -30,9 +37,25 @@ Procedure
         - Powers on or off the VM (depends on the initial power state)
         - Runs the scripts to set the static IP address
 
+| 4. Click **X** to close window.
 |
 | The cutover process begins immediately and takes a few minutes. Once cutover is complete, the VM is ready for use in the new Nutanix Cluster on AHV cluster.
 | 
+| 5. Click at **In Progress** to view status.
+
+        .. thumbnail:: image/progress.png
+                :width: 300
+                :align: center
+
+
+| 6. Click **X** to close window, after VMs disappeared. You will see Your Migration Plan status is **Completed**.      
+
+        .. thumbnail:: image/complete.png
+                :width: 600
+                :align: center
+
+
+|         
 | 4. Log on to the AHV cluster, see the migrated VMs.
 |
 | 5. to check migrated VMs helth, click **Launch console** at the migrated VMs.
