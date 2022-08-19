@@ -54,6 +54,6 @@ html_theme_options = {
     'titles_only': False
 }
 
-extensions = [
-          'sphinxcontrib.images',
-          ]
+#extensions = [
+#          'sphinxcontrib.images',
+#          ]
