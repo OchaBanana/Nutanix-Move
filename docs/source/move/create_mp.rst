@@ -79,6 +79,5 @@ Procedure
 
 
         .. thumbnail:: image/progress.png
-                :width: 150
+                :width: 300
                 :align: center
-                
