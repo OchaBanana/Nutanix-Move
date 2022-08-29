@@ -69,5 +69,8 @@ Procedure
 Takeaways
 ---------
 
+- No cost, Partners and Customers can use Nutanix Move with no charge at any times.
+- Simplicity, Nutanix Move is easy to delpoy and easy to use.
+- Multi-Cloud, Nutanix Move support multi-cloud migration and also multi-hypervisor migration.
 
 
