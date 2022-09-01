@@ -52,6 +52,7 @@ This process takes some time.
 |
 | 7. Look for the test VM and perform test operations.
 |
+
     .. note::
             Test VMs are suffixed with -MoveTest in the target network.
 
