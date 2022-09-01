@@ -1,4 +1,4 @@
-.. _create__mp:
+.. _create_mp:
 
 Creating a Migration Plan
 *************************
@@ -46,7 +46,10 @@ Procedure
 
 |    The selected VMs are displayed in the sidebar. Click **Next**.
 |
-| 6. In the Network Configuration screen, select the **Target Network > Primary** network. Then, click **Next**.
+| 6. In the Network Configuration screen, select 
+|    a. **Target Network: Primary** 
+|    b. **Test Network: test-network**
+|    Then, click **Next**.
 |
 | 7. In the VM Preparation screen, select '**Autometic**' modes.
  

@@ -56,7 +56,7 @@ VPN option: Pulse Secure VPN Client
 -----------------------------------
 
 1. If client already installed skip to step 5
-2. To download the client, login to https://xlv-uswest1.nutanix.com or https://xlv-blr.xlabs.nutanix.com using the supplied user credentials
+2. To download the client, login to https://blr-vpn.xlabs.nutanix.com or https://phx-vpn.xlabs.nutanix.com using the supplied user credentials
     Or
  
   - Direct Download:
@@ -70,17 +70,32 @@ VPN option: Pulse Secure VPN Client
 
    Use BLR:
 
-   - **Type:** Policy Secure (UAC) or Connection Server(VPN)\
+   - **Type:** Policy Secure (UAC) or Connection Server(VPN)
    - **Name:** X-Labs - BLR
-   - **Server URL:** xlv-blr.xlabs.nutanix.com\
+   - **Server URL:** blr-vpn.xlabs.nutanix.com
    
    Or PHX:
 
-   - **Type** - Policy Secure (UAC) or Connection Server
+   - **Type** - Policy Secure (UAC) or Connection Server(VPN)
    - **Name** - X-Labs - PHX
-   - **Server URL** - xlv-uswest1.nutanix.com
+   - **Server URL** - phx-vpn.xlabs.nutanix.com
 
 6. Once setup, login with the supplied credentials
+
+**Incase can't install Pulse VPN Client**
+
+Parallels VDI
+-------------
+1. Login to https://blr-ras.xlabs.nutanix.com or https://phx-ras.xlabs.nutanix.com using your supplied credentials
+2. Select HTML5 (web browser) OR Install the Parallels Client
+3. Select a desktop or application of your choice.
+
+Frame VDI
+---------
+1. Login to https://console.nutanix.com/x/labs using your supplied credentials
+2. Select the most applicable datacenter launchpad for the clusters you will be accessing or modify an existing selection using the breadcrumb menu at the top-center of the page
+3. Launch desktop
+
 
 Cluster Credentials
 -------------------

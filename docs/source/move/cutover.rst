@@ -20,7 +20,7 @@ Procedure
                 :width: 300
                 :align: center
 
-| 2. To perform a cutover, select both '*<Your name>*-win-vm' and '*<Your name>*-linux-vm'.
+| 2. To perform a **cutover**, select both '*<Your name>*-win-vm' and '*<Your name>*-linux-vm'.
 |    Cutover confirmation window appears.
 |
 | 3. Click **Continue**.
