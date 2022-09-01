@@ -16,7 +16,6 @@ Procedure
 
 | 1. Make sure all VMs migration status changes to **Ready to Cutover**, the following actions are enabled:
 |    
-
     - **Test Actions**: Click to continue with testing the VMs on the target environment.
     - **Cutover** : Click to continue with normal migration process in the production environment.
 
@@ -45,6 +44,7 @@ This process takes some time.
     - **Recreate Test VM**: Click to recreate a test VM.
     - **Remove Test VM**: Click to remove the deployed test VMs from the target and changes the VM status back to Ready to Cutover.
 
+
 | 5. Click **View Test VM**.
 |    A new window for the target network opens up.
 |
@@ -55,6 +55,7 @@ This process takes some time.
 
     .. note::
             Test VMs are suffixed with -MoveTest in the target network.
+
 
 
 | 8. Once you test the VMs in the target environment, come back to the Move Dashboard and click **Remove Test VM** to clean up the target environment.
