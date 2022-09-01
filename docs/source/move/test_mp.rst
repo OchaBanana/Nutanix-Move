@@ -24,7 +24,7 @@ Procedure
 This process takes some time.
 
      .. image:: image/test-actions.png
-                :width: 500
+                :width: 600
                 :align: center
 
 | 3. Click **Continue** on the dialog box.
@@ -36,13 +36,14 @@ This process takes some time.
 | 4. Click **View Test VM** option created under the Migration Status tab under **Ready to Cutover**.
 
      .. image:: image/test-actions-view.png
-                :width: 300
+                :width: 600
                 :align: center
 
 | The following options are enabled after you click **Test Actions**:
 |
     - **Recreate Test VM**: Click to recreate a test VM.
     - **Remove Test VM**: Click to remove the deployed test VMs from the target and changes the VM status back to Ready to Cutover.
+
 
 
 | 5. Click **View Test VM**.
@@ -59,3 +60,5 @@ This process takes some time.
 
 
 | 8. Once you test the VMs in the target environment, come back to the Move Dashboard and click **Remove Test VM** to clean up the target environment.
+|
+|
