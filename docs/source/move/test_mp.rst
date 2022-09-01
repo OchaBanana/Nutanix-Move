@@ -36,7 +36,7 @@ This process takes some time.
 
 | 4. Click **View Test VM** option created under the Migration Status tab under **Ready to Cutover**.
 
-     .. image:: image/test-vactions-view.png
+     .. image:: image/test-actions-view.png
                 :width: 300
                 :align: center
 
