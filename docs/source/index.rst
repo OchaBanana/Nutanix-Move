@@ -12,6 +12,7 @@
    move/source_environment
    move/target_environment
    move/create_mp
+   move/test_mp
    move/cutover
    move/download_file
 
